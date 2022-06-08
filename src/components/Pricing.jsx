@@ -18,7 +18,7 @@ const Pricing = () => {
         </div>
         <div className="grid md:grid-cols-2  gap-4">
           <PricingBottom />
-          <PricingBottom text="ENTERPRISE" value="$89" />
+          <PricingBottom text="ENTERPRISE" value="INR 890" />
         </div>
       </div>
     </div>

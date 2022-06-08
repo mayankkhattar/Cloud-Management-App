@@ -1,7 +1,7 @@
 import { CheckIcon } from "@heroicons/react/outline";
 import React from "react";
 
-const PricingBottom = ({ text = "STANDARD", value = "$49" }) => {
+const PricingBottom = ({ text = "STANDARD", value = "INR 490" }) => {
   return (
     <div className="bg-white text-slate-900 rounded-2xl shadow-2xl m-4 p-8">
       <span className="px-3 py-1 bg-indigo-200 text-indigo-900 rounded-2xl text-sm">

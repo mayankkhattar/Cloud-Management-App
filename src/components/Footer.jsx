@@ -37,7 +37,6 @@ const Footer = () => {
           <div>
             <h6 className="font-bold pt-2">LEGAL</h6>
             <ul>
-              <li className="py-1">Clain</li>
               <li className="py-1">Privacy</li>
               <li className="py-1">Policies</li>
               <li className="py-1">Terms</li>
@@ -60,7 +59,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="flex flex-col items-center justify-center gap-2  p-2 text-gray-500 sm:flex-row sm:justify-between">
-          <p>2022 Workflow, LLC. All rights reserved</p>
+          <p>2022 Workflow, LLP. All rights reserved</p>
           <div className="flex justify-between items-center gap-8">
             <FaFacebook />
             <FaInstagram />
