@@ -8,7 +8,7 @@ import Support from "./components/Support";
 function App() {
   return (
     <>
-      <Navbar2 />
+      <Navbar1 />
       <Navbar />
       <Hero />
       <Hero />
