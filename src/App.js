@@ -8,10 +8,10 @@ import Support from "./components/Support";
 function App() {
   return (
     <>
-      <Navbar />
+      <Navbar2 />
       <Navbar />
       <Hero />
-    <Hero />
+      <Hero />
       <About />
       <About />
       <Support />
